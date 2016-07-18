@@ -1,5 +1,5 @@
 {
-    "name": "bigpipe-experiment"
+    "name": "bigpipe"
   , "version": "0.1.0"
   , "private": true
   , "dependencies": {
