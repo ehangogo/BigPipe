@@ -15,13 +15,13 @@ npm install express ejs
 
 ```
 # 运行服务器,然后访问 
-# http://127.0.0.1:3000/index.html访问BigPipe的效果页面
+# http://127.0.0.1:3001/index.html访问BigPipe的效果页面
 node BigPipe.js 
 ```
 
 ```
 # 运行服务器,然后访问 
-# http://127.0.0.1:3000/index.html访问BigRender的效果页面
+# http://127.0.0.1:3001/index.html访问BigRender的效果页面
 node BigRender.js 
 ```
 ![运行截图][1]
