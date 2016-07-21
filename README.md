@@ -27,7 +27,18 @@ node BigRender.js
 ![运行截图][1]
 # 二、原理
 ![原理][2]
-# 二、代码
+
+
+
+# 三、性能
+
+## 1、传统模式
+![传统模式][3]
+
+## 2、BigPipe模式
+![BigPipe模式][4]
+
+# 四、代码
 
 ## 1、页面结构
 ``` html
@@ -163,16 +174,6 @@ $(window).on("scroll",function(){
 
 
 ```
-
-
-# 三、性能
-
-## 1、传统模式
-![传统模式][3]
-
-## 2、BigPipe模式
-![BigPipe模式][4]
-
 
   [1]: https://raw.githubusercontent.com/mircode/BigPipe/master/doc/img/index.png
   [2]: https://raw.githubusercontent.com/mircode/BigPipe/master/doc/img/%E5%9B%BE%E7%89%871.png
